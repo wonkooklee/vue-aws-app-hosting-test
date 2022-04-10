@@ -5,18 +5,25 @@
       안녕하세요, 저는 🍪 개발자입니다.
       <a href="https://velog.io/@oneook" target="_blank" rel="noopener">velog.io/@oneook</a>.
     </p>
-    <h3>이것은 나의 블로그입니까!</h3>
+    <h3>CI CD 테스트용 프로젝트</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
     </ul>
-    <h3>내가 배우고 싶은것</h3>
+    <h3>기술 스택</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li>JavaScript</li>
+      <li>Vue.JS</li>
+      <li>React.JS</li>
+      <li>Node.JS</li>
+      <li>Express.JS</li>
+      <li>Prisma</li>
+      <li>MySQL</li>
+      <li>AWS CloudFront</li>
+      <li>AWS S3</li>
+      <li>AWS CloudFormation</li>
+      <li>AWS Lambda</li>
+      <li>Serverless Framework</li>
     </ul>
     <h3>원국이의 앱</h3>
     <ul>
